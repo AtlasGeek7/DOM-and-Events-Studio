@@ -1,6 +1,12 @@
 #shuttleBackground {
     background-color: green;
+    background-image: url("station.jpg");
     display: inline-block;
-    height: 80%;
-    width: 40%;
+    height: 320px;
+    width: 600px;
+}
+#rocket {
+	position: relative;
+	top: 240px;
+	left: -60px;
 }
